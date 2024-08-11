@@ -30,6 +30,14 @@ Usage:
 4. Use the `/process_text/` endpoint to process text and store results.
 5. Retrieve stored summaries and entities using the `/summaries/{summary_id}` endpoint.
 
+   
+
+![Screenshot 2024-08-11 215026](https://github.com/user-attachments/assets/e4cd527d-4342-45fc-b56f-d35e9493e1c9)
+
+
+![Screenshot 2024-08-11 220147](https://github.com/user-attachments/assets/c672f31e-6dc9-4c2d-8a66-20a0b9e710a7)
+
+
 
 
 
